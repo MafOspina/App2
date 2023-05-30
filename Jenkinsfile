@@ -1,3 +1,3 @@
-@Library('Library1@dev') _
+@Library('DevOps@dev') _
 
-libreria(projectKey: 'Reto_1', projectName: 'Reto_1', sonarHome: 'sonarqube', projectVersion: '1.0')
+libreria(gitUrl: 'https://github.com/MafOspina/App2.git')
